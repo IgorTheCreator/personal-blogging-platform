@@ -1,6 +1,6 @@
 # Personal blogging platform (Express/JS)
 
-Personal blogging platform inspired by https://roadmap.sh/backend/project-ideas
+Personal blogging platform inspired by https://roadmap.sh/backend/project-ideas#1-personal-blogging-platform-api
 
 ## Стэк
 
